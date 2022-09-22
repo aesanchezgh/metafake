@@ -10,3 +10,14 @@ Framework for face swapping, face reenactment, face attribute editing, face supe
 - FaceSwapper (https://github.com/liqi-casia/FaceSwapper)
 - HifiFace (https://github.com/mindslab-ai/hififace)
 - Few Shot ()
+
+## Dependencies
+- python3.6+
+- pytorch1.5+
+- torchvision
+- opencv
+- pillow
+- numpy
+- imageio
+- moviepy
+- insightface
