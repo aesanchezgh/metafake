@@ -10,6 +10,7 @@ Numerous face swapping models that have been optimized and improved
 - [[FaceSwapper]](https://github.com/liqi-casia/FaceSwapper)
 - [[HifiFace]](https://github.com/mindslab-ai/hififace)
 - [[FewShot]]()
+- More models coming soon!
 
 ## Dependencies
 - python3.6+
