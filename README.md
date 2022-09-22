@@ -1,8 +1,8 @@
 # metafake
 Framework for face swapping, face reenactment, face attribute editing, face super resolution.
 
-# Features
-* Numerous face swapping models that have been optimized and improved 
+## Features
+Numerous face swapping models that have been optimized and improved 
 - SimSwap (https://github.com/neuralchen/SimSwap)
 - FaceShifter (https://github.com/ocastan/FaceShifter)
 - SberSwap (https://github.com/ai-forever/sber-swap)
