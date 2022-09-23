@@ -12,6 +12,12 @@ Numerous face swapping models that have been optimized and improved
 - [[FewShot]]()
 - More models coming soon!
 
+Supported attributes:
+- Hair color
+- Hair style
+- Age
+- More attributes coming soon!
+
 ## Dependencies
 - python3.6+
 - pytorch1.5+
