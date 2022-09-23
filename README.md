@@ -1,5 +1,5 @@
 # metafake
-State-of-the-art framework for face swapping, face reenactment, face attribute editing, face super resolution. MetaFake is the first software framework that allows you to come face swapping and face attribute editing simultaneously. Think of this as RefaceApp+FaceApp on steroids.
+State-of-the-art framework for creating single-shot deepfakes by face swapping, face reenactment, face attribute editing, and face super resolution. Metafake is the first software framework that allows you to come face swapping and face attribute editing simultaneously. Think of this as RefaceApp+FaceApp on steroids.
 
 ## Features
 Numerous face swapping models that have been optimized and improved 
