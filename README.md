@@ -18,16 +18,41 @@ Supported attributes:
 - Age
 - More attributes coming soon!
 
+Misc:
+- Complete code re-wrtite. Shrunk code base by orders of magnitude, and made it readable. Elimination of dead code, and optimization of code in general.
+- Created a new, user-friendly API for multiface swapping. 
+- Added ability to process an entire folder of destination images/videos. 
+- Added ability to swap with multiple-selected models in same program execution
+- Removed temporaily writing images to disk. All image processing is performed in memory.
+- Added config option to output intermediate images into a temporay folder
+- Support for face upscaling models: [GFPGANCleanv1-NoCE-C2|GFPGANv1|GFPGANv1.3|GFPGANv1.4|RestoreFormer|GPEN-BFR-512]
+- Optional replacement of mouth in face mask. 
+- 
+
 ## Dependencies
-- python3.6+
-- pytorch1.5+
-- torchvision
-- opencv
-- pillow
+- python 3.6+
+- pytorch 1.9.0
+- torchvision 0.10.0
+- opencv-python==4.5.2.52
+- pillow==8.0.1
 - numpy
-- imageio
+- imageio== 2.9.0
 - moviepy
-- insightface
+- insightface==0.2.1
+- munch
+- Ninja
+- pytorch_lightning
+- onnxruntime-gpu==1.8.0
+- tqdm==4.51.0
+- keras
+- tensorflow-gpu
+- mxnet
+- scikit-image
+- requests==2.18.4
+- kornia==0.5.4
+- dill
+- wandb
+- onnx==1.9.0
 
 ## Usage 
 
